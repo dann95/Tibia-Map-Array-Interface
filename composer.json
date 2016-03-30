@@ -1,0 +1,19 @@
+{
+    "name": "thusk/tibia-map-array-interface",
+    "description": "basic interface to follow to build a tibia map",
+    "type": "contracts",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Rubin",
+            "email": "danielrubin95@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+        "psr-4": {
+            "TibiaMap\\": "src/"
+        }
+    },
+    "require": {}
+}
